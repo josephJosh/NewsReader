@@ -1,0 +1,22 @@
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\bin\Debug\NewsReader.exe.config
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\bin\Debug\NewsReader.exe
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\bin\Debug\NewsReader.pdb
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\bin\Debug\NewsReader.xml
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.vbprojResolveAssemblyReference.cache
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.Form1.resources
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.Resources.resources
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.vbproj.GenerateResource.Cache
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.exe
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.xml
+C:\Users\Josh\AppData\Local\Temporary Projects\NewsReader\obj\Debug\NewsReader.pdb
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\bin\Debug\NewsReader.exe.config
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.exe
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.xml
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.pdb
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\bin\Debug\NewsReader.exe
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\bin\Debug\NewsReader.pdb
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\bin\Debug\NewsReader.xml
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.vbprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.Form1.resources
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.Resources.resources
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\NewsReader\NewsReader\obj\Debug\NewsReader.vbproj.GenerateResource.Cache
